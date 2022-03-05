@@ -1,3 +1,3 @@
 # odin-recipes
-assignment
+!assignment
 Creating a recipe website!
